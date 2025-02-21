@@ -52,9 +52,9 @@ GOOGLE_API_KEY=your_google_api_key_here
 
 1️⃣ Open the application.
 
-2️⃣ Enter a query related to the invoice in the text input field.
+2️⃣ Upload an invoice image (`.jpg`, `.jpeg`, or `.png`).
 
-3️⃣ Upload an invoice image (`.jpg`, `.jpeg`, or `.png`).
+3️⃣ Enter a query related to the invoice in the text input field.
 
 4️⃣ Click **"Tell me about the image"** to extract relevant details from the invoice.
 
